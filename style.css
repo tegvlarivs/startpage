@@ -14,8 +14,8 @@
 html, body{
 	margin: 0;
 	padding: 0;
-	background-color: #F5F5F5;
-	color: #969896;
+	background-color: #151515;
+	color: #DEDEDE;
 	font-size: 14px;
 }
 
@@ -37,13 +37,13 @@ html, body{
 }
 
 #header {
-	-webkit-box-shadow: 1px 1px 1px 1px #A9A9A9;
-	-moz-box-shadow: 1px 1px 1px 1px #A9A9A9;
-	box-shadow: 1px 1px 1px 1px #A9A9A9;
-	background-color: #fff;
+	-webkit-box-shadow: 1px 1px 1px 1px #202020;
+	-moz-box-shadow: 1px 1px 1px 1px #202020;
+	box-shadow: 1px 1px 1px 1px #202020;
+	background-color: #242424;
 	margin: 4px;
 	padding: 8px;
-	border: 5px solid #fff;
+	border: 5px solid #242424;
 }
 
 
@@ -54,15 +54,15 @@ html, body{
 }
 
 .linksbox {
-	-webkit-box-shadow: 1px 1px 1px 1px #A9A9A9;
-	-moz-box-shadow: 1px 1px 1px 1px #A9A9A9;
-	box-shadow: 1px 1px 1px 1px #A9A9A9;
+	-webkit-box-shadow: 1px 1px 1px 1px #202020;
+	-moz-box-shadow: 1px 1px 1px 1px #202020;
+	box-shadow: 1px 1px 1px 1px #202020;
 	-moz-box-flex: 1;
 	-webkit-box-flex: 1;
 	margin: 4px;
 	padding: 8px 8px 8px 8px;
-	background-color: #fff;
-	border: 5px solid #fff;
+	background-color: #242424;
+	border: 5px solid #242424;
 }
 
 .linksbox h3 {
