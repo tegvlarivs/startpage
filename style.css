@@ -14,8 +14,8 @@
 html, body{
 	margin: 0;
 	padding: 0;
-	background-color: #151515;
-	color: #DEDEDE;
+	background-color: #F5F5F5;
+	color: #4d5666;
 	font-size: 14px;
 }
 
@@ -40,10 +40,10 @@ html, body{
 	-webkit-box-shadow: 1px 1px 1px 1px #202020;
 	-moz-box-shadow: 1px 1px 1px 1px #202020;
 	box-shadow: 1px 1px 1px 1px #202020;
-	background-color: #242424;
+	background-color: #ededed;
 	margin: 4px;
 	padding: 8px;
-	border: 5px solid #242424;
+	border: 5px solid #ededed;
 }
 
 
@@ -61,8 +61,8 @@ html, body{
 	-webkit-box-flex: 1;
 	margin: 4px;
 	padding: 8px 8px 8px 8px;
-	background-color: #242424;
-	border: 5px solid #242424;
+	background-color: #ededed;
+	border: 5px solid #ededed;
 }
 
 .linksbox h3 {
@@ -125,7 +125,7 @@ input 	{
 	background: none;
 	display: inline;
 	border: none;
-	color: #DEDEDE;
+	color: #4d5666;
 	width: 70%;
 	font-size: 14px;
 }
