@@ -1,10 +1,10 @@
 @font-face {
-	font-family: 'Fira Sans Light';
+	font-family: "Noto Sans";
 	font-style: normal;
 	font-weight: normal;
 }
 @font-face {
-	font-family: 'Fira Sans Light';
+	font-family: "Noto Sans";
 	font-style: normal;
 	font-weight: normal;
 
@@ -20,7 +20,7 @@ html, body{
 }
 
 * {
-	font-family: 'Fira Sans Light';
+	font-family: "Noto Sans";
 	font-weight: normal;
 }
 
@@ -37,9 +37,9 @@ html, body{
 }
 
 #header {
-	-webkit-box-shadow: 1px 1px 1px 1px #202020;
-	-moz-box-shadow: 1px 1px 1px 1px #202020;
-	box-shadow: 1px 1px 1px 1px #202020;
+	-webkit-box-shadow: 1px 1px 1px 1px #717885;
+	-moz-box-shadow: 1px 1px 1px 1px #717885;
+	box-shadow: 1px 1px 1px 1px #717885;
 	background-color: #ededed;
 	margin: 4px;
 	padding: 8px;
@@ -54,9 +54,9 @@ html, body{
 }
 
 .linksbox {
-	-webkit-box-shadow: 1px 1px 1px 1px #202020;
-	-moz-box-shadow: 1px 1px 1px 1px #202020;
-	box-shadow: 1px 1px 1px 1px #202020;
+	-webkit-box-shadow: 1px 1px 1px 1px #717885;
+	-moz-box-shadow: 1px 1px 1px 1px #717885;
+	box-shadow: 1px 1px 1px 1px #717885;
 	-moz-box-flex: 1;
 	-webkit-box-flex: 1;
 	margin: 4px;
@@ -84,19 +84,19 @@ html, body{
 }
 
 h3 {
-	font-size: 14px;
+	font-size: 10px;
 	padding-bottom: 0;
 	margin-bottom: 0;
 	margin-top: 0;
 }
 
 .cyan {
-	color: #636E71;
+	color: #72b9bf;
 	padding: 0;
 }
 
 .blue {
-	color: #A2A9B7;
+	color: #5299bf;
 	padding: 0;
 }
 
@@ -127,7 +127,7 @@ input 	{
 	border: none;
 	color: #4d5666;
 	width: 70%;
-	font-size: 14px;
+	font-size: 10px;
 }
 canvas	{
   position: absolute;
