@@ -37,13 +37,13 @@ html, body{
 }
 
 #header {
-	-webkit-box-shadow: 1px 1px 1px 1px #717885;
-	-moz-box-shadow: 1px 1px 1px 1px #717885;
-	box-shadow: 1px 1px 1px 1px #717885;
-	background-color: #ededed;
+	-webkit-box-shadow: 1px 1px 1px 1px #C1C1C1;
+	-moz-box-shadow: 1px 1px 1px 1px #C1C1C1;
+	box-shadow: 1px 1px 1px 1px #C1C1C1;
+	background-color: #f5f5f5;
 	margin: 4px;
 	padding: 8px;
-	border: 5px solid #ededed;
+	border: 5px solid #f5f5f5;
 }
 
 
@@ -54,15 +54,15 @@ html, body{
 }
 
 .linksbox {
-	-webkit-box-shadow: 1px 1px 1px 1px #717885;
-	-moz-box-shadow: 1px 1px 1px 1px #717885;
-	box-shadow: 1px 1px 1px 1px #717885;
+	-webkit-box-shadow: 1px 1px 1px 1px #C1C1C1;
+	-moz-box-shadow: 1px 1px 1px 1px #C1C1C1;
+	box-shadow: 1px 1px 1px 1px #C1C1C1;
 	-moz-box-flex: 1;
 	-webkit-box-flex: 1;
 	margin: 4px;
 	padding: 8px 8px 8px 8px;
-	background-color: #ededed;
-	border: 5px solid #ededed;
+	background-color: #f5f5f5;
+	border: 5px solid #f5f5f5;
 }
 
 .linksbox h3 {
