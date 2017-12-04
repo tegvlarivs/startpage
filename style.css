@@ -1,26 +1,21 @@
 @font-face {
-	font-family: "Noto Sans";
-	font-style: normal;
-	font-weight: normal;
+	font-family: "Noto Sans", sans-serif;
 }
 @font-face {
-	font-family: "Noto Sans";
-	font-style: normal;
-	font-weight: normal;
-
+	font-family: "Noto Sans", sans-serif;
 }
 
 
 html, body{
 	margin: 0;
 	padding: 0;
-	background-color: #EBEBEB;
-	color: #4d5666;
+	background-color: #1D2021;
+	color: #d5c4a1;
 	font-size: 10px;
 }
 
 * {
-	font-family: "Noto Sans";
+	font-family: "Noto Sans", sans-serif;
 	font-weight: normal;
 }
 
@@ -37,13 +32,13 @@ html, body{
 }
 
 #header {
-	-webkit-box-shadow: 1px 1px 1px 1px #C1C1C1;
-	-moz-box-shadow: 1px 1px 1px 1px #C1C1C1;
-	box-shadow: 1px 1px 1px 1px #C1C1C1;
-	background-color: #f5f5f5;
-	margin: 4px;
+	-webkit-box-shadow: 1px 1px 1px 1px #000000;
+	-moz-box-shadow: 1px 1px 1px 1px #000000;
+	box-shadow: 1px 1px 1px 1px #000000;
+	background-color: #1D2021;
+	margin: 10px;
 	padding: 8px;
-	border: 5px solid #f5f5f5;
+	border: 5px solid #1D2021;
 }
 
 
@@ -54,15 +49,15 @@ html, body{
 }
 
 .linksbox {
-	-webkit-box-shadow: 1px 1px 1px 1px #C1C1C1;
-	-moz-box-shadow: 1px 1px 1px 1px #C1C1C1;
-	box-shadow: 1px 1px 1px 1px #C1C1C1;
+	-webkit-box-shadow: 1px 1px 1px 1px #000000;
+	-moz-box-shadow: 1px 1px 1px 1px #000000;
+	box-shadow: 1px 1px 1px 1px #000000;
 	-moz-box-flex: 1;
 	-webkit-box-flex: 1;
-	margin: 4px;
+	margin: 10px;
 	padding: 8px 8px 8px 8px;
-	background-color: #f5f5f5;
-	border: 5px solid #f5f5f5;
+	background-color: #1D2021;
+	border: 5px solid #1D2021;
 }
 
 .linksbox h3 {
@@ -76,11 +71,11 @@ html, body{
 }
 
 .linksbox a.cyan:hover {
-	color: #C2C2C2;
+	color: #83a598;
 }
 
 .linksbox a.red:hover {
-	color: #C2C2C2;
+	color: #d3869b;
 }
 
 h3 {
@@ -91,29 +86,39 @@ h3 {
 }
 
 .cyan {
-	color: #f0a000;
+	color: #83a598;
 	padding: 0;
 }
 
 .blue {
-	color: #5299bf;
+	color: #83a598;
 	padding: 0;
 }
 
 .green {
 	font-weight: normal;
 	padding: 0;
-	color: #9989cc;
+	color: #8ec07c;
 }
 
 .pink {
 	padding: 0;
-	color: #ff6ac1;
+	color: #d3869b;
 }
 
 .red {
 	padding: 0;
-	color: #ff5c57;
+	color: #fb4934;
+}
+
+.orange {
+	padding: 0;
+	color: #d65d0e;
+}
+
+.yellow {
+	padding: 0;
+	color: #d5c4a1;
 }
 
 form {

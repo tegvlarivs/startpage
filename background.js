@@ -1,24 +1,24 @@
 var canvasDots = function() {
   var canvas = document.querySelector('canvas'),
       ctx = canvas.getContext('2d'),
-      colorDot = '#9989cc',
-      color = '#9989cc';
+      colorDot = '#1D2021',
+      color = '#bdae93';
   canvas.width = window.innerWidth;
   canvas.height = window.innerHeight;
   canvas.style.display = 'block';
   ctx.fillStyle = colorDot;
-  ctx.lineWidth = 0.15;
+  ctx.lineWidth = 0.03;
   ctx.strokeStyle = color;
 
   var mousePosition = {
-    x: 30 * canvas.width / 100,
-    y: 30 * canvas.height / 100
+    x: 100 * canvas.width / 100,
+    y: 100 * canvas.height / 100
   };
 
   var dots = {
-    nb: 300,
-    distance: 60,
-    d_radius: 100,
+    nb: 400,
+    distance: 100,
+    d_radius: 10000,
     array: []
   };
 
